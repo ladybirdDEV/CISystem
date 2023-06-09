@@ -1,0 +1,6 @@
+framework module CISystem {
+  umbrella header "CISystem.h"
+
+  export *
+  module * { export * }
+}
